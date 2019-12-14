@@ -1,0 +1,94 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Triber/6207/1568880294543/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Renault",
+      "year": "2019",
+      "modal": "Renault Triber",
+      "price": "4.95 - 6.63 Lakh"
+    },
+    {
+      "id": 2,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/S-Presso/6166/1569829489463/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Maruti",
+      "year": "2019",
+      "modal": "Maruti S-Presso",
+      "price": "3.69 - 4.91 Lakh"
+    },
+    {
+      "id": 3,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/KWID/7184/1569922480163/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Renault",
+      "year": "2018",
+      "modal": "Renault KWID",
+      "price": "2.93 - 5.02 Lakh"
+    },
+    {
+      "id": 4,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Eeco/583/1556194151032/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Maruti",
+      "year": "2019",
+      "modal": "Maruti Eeco",
+      "price": "3.79 - 4.92 Lakh"
+    },
+    {
+      "id": 5,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Land-Rover-Range-Rover-Velar/6878/1554986716336/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Land Rover",
+      "year": "2019",
+      "modal": "Land Rover Range Rover Velar",
+      "price": "72.47 Lakh"
+    },
+    {
+      "id": 6,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-X1/4863/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "BMW",
+      "year": "2019",
+      "modal": "BMW X1",
+      "price": "35.2 - 45.7 Lakh"
+    },
+    {
+      "id": 7,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-A3/5749/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Audi",
+      "year": "2019",
+      "modal": "Audi A3",
+      "price": "28.99 - 31.99 Lakh"
+    },
+    {
+      "id": 8,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-Q3/5911/1556088228664/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Audi",
+      "year": "2019",
+      "modal": "Audi Q3",
+      "price": "34.75 - 43.61 Lakh"
+    },
+    {
+      "id": 9,
+      "vehicleImages": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/Volvo-XC-90/4047/1560234977383/front-left-side-47.jpg"
+      ],
+      "manufcturereName": "Volvo",
+      "year": "2019",
+      "modal": "Volvo XC 90",
+      "price": "68.99 - 80.89 Lakh"
+    }
+  ]
+}
